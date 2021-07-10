@@ -6,3 +6,10 @@ O Trampo Certo é um sistema de busca por mão de obra qualificada, onde o usuá
 ### Origem do Projeto:
 
 A ideia surgiu após observar a dificuldade dos trabalhadores autonomos para encontrar oportunidades, à partir disso desenvolvemos em grupo uma plataforma que pudesse ser a ponte entre cliente e profissional.
+
+### Tecnologias:
+
+-PHP;
+-CSS;
+-JavaScript;
+-MySQL.
