@@ -9,11 +9,6 @@ A ideia surgiu após observar a dificuldade dos trabalhadores autonomos para enc
 
 ### Tecnologias:
 
--PHP;
--CSS;
--JavaScript;
--MySQL.
-
 - PHP;
 - CSS;
 - Javascript;
