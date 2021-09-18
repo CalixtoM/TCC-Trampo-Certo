@@ -13,3 +13,5 @@ A ideia surgiu após observar a dificuldade dos trabalhadores autonomos para enc
 - CSS;
 - Javascript;
 - MySQL.
+
+## ✔️ Repositório Finalizado
