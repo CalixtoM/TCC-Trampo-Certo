@@ -5,7 +5,7 @@ O Trampo Certo é um sistema de busca por mão de obra qualificada, onde o usuá
 
 ### 💡 Ideia:
 
-A ideia surgiu após observar a dificuldade dos trabalhadores autonomos para encontrar oportunidades, a partir disso desenvolvemos em grupo uma plataforma que pudesse ser a ponte entre cliente e profissional, sem burocracias ou taxas abusivas.
+A ideia surgiu após observar a dificuldade dos trabalhadores autonomos para encontrar oportunidades de serviços, a partir disso desenvolvemos em grupo uma plataforma que pudesse ser a ponte entre cliente e profissional, sem burocracias ou taxas abusivas.
 
 ### 🖥️Tecnologias utilizadas:
 
