@@ -1,6 +1,6 @@
 # TCC-Trampo-Certo✅
 
-Nesse repositório é possivel encontrar o trabalho de conclusão de curso realizado durante o ensino técnico de Informática P/ Internet.
+Nesse repositório é possivel encontrar o trabalho de conclusão de curso realizado durante o ensino técnico de Informática P/ Internet da Etec de Itanhaém.
 O Trampo Certo é um sistema de busca por mão de obra qualificada, onde o usuário pode procurar profissionais para realizar trabalhos, ou trabalhadores autônomos podem buscar oportunidades de serviços de maneira simplificada.
 
 ### 💡 Ideia:
