@@ -7,12 +7,16 @@ O Trampo Certo é um sistema de busca por mão de obra qualificada, onde o usuá
 
 A ideia surgiu após observar a dificuldade dos trabalhadores autonomos para encontrar oportunidades de serviços, a partir disso desenvolvemos em grupo uma plataforma que pudesse ser a ponte entre cliente e profissional, sem burocracias ou taxas abusivas.
 
-### 🖥️Tecnologias utilizadas:
+### 🧰 Tecnologias utilizadas:
 
-- PHP;
-- CSS;
-- Javascript;
-- MySQL.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
+</div>
 
 ### 📸 Screenshots:
 
